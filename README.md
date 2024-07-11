@@ -23,24 +23,28 @@ Al ejecutar la aplicación, se te presentarán las siguientes opciones en la con
 ### 1. Buscar libro por título
 
 Al seleccionar esta opción, se pedirá que se ingrese el título del libro que deseas buscar. La aplicación mostrará el título, autor, idioma y número de descargas del libro encontrado.
+
 ![image](https://github.com/user-attachments/assets/b125892f-4788-454b-98c4-61670eb305ea)
 
 
 ### 2. Ver todos los libros
 
 Esta opción muestra una lista de todos los libros que han sido buscados hasta el momento.
+
 ![image](https://github.com/user-attachments/assets/c95aa3fc-5074-47b7-beac-f5b1118cce03)
 
 
 ### 3. Ver libros por idioma
 
 Al seleccionar esta opción, se pedirá igresar el idioma para filtrar los libros. La aplicación mostrará una lista de libros escritos en ese idioma.
+
 ![image](https://github.com/user-attachments/assets/038932a9-f9ba-4f16-877f-a020891c7ec1)
 
 
 ### 4. Ver todos los autores
 
 Esta opción muestra una lista de todos los autores de los libros que han sido buscados.
+
 ![image](https://github.com/user-attachments/assets/0318c6b3-1fd1-4105-98de-f4b82e7c6e4e)
 
 
